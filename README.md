@@ -1,5 +1,9 @@
-## codebytere's Personal Website
+## Nishant Shakya's Personal Website
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-An interactive `cli `that allows you to learn about me by navigating around a terminal emulator.
+A terminal emulator to learn about me.
 
-Built with JavaScript & less.
+Forked from:  [codebytere](http://codebyte.re/)
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/nishant-shakya
