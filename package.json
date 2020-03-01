@@ -1,0 +1,22 @@
+{
+  "name": "nishantshakya.github.io",
+  "version": "1.0.0",
+  "description": "Terminal Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishantshakya/nishantshakya.github.io"
+  },
+  "author": "Shelley Vohr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishantshakya/nishantshakya.github.io/issues"
+  },
+  "homepage": "https://github.com/nishantshakya//nishantshakya.github.io#readme",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}
